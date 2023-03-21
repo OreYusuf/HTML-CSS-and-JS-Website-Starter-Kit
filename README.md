@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/OreYusuf/HTML-CSS-and-JS-Website-Starter-Kit">
     <img src="assets/html.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,14 +11,6 @@
     A basic HTML, CSS, and JS Website Starter Kit template to start web projects/quick prototyping
     <br />
     <br />
-    <a href="https://github.com/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/">View Demo</a>
-    ·
-    <a href="/issues">Report Bug</a>
-    ·
-    <a href="/issues">Request Feature</a>
   </p>
 </div>
 
@@ -51,22 +43,16 @@ Instructions on setting up project to get a running follow these simple these st
 
 ### Prerequisites
 
-##### Npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
   ```sh
-git clone https://github.com/....
+git clone "https://github.com/OreYusuf/HTML-CSS-and-JS-Website-Starter-Kit"
   ```
 
   ```sh
-cd HTML-CSS-and-JS-Website-Starter-Kit
+cd  HTML-CSS-and-JS-Website-Starter-Kit
   ```
 
-Best practice is to then run a HTTP server to preview the website live whilst changes are being made. To do this I use [live-server](https://github.com/tapio/live-server/) :
-
+Run a HTTP server to preview the website live whilst changes are being made. To do this I use [Live-Server](https://github.com/tapio/live-server/)
   ```sh
 npm install -g live-server
   ```
@@ -75,20 +61,6 @@ Simply run the following in the HTML-CSS-and-JS-Website-Starter-Kit project dire
   ```sh
   live-server
   ```
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
